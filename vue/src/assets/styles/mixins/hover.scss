@@ -1,0 +1,7 @@
+@mixin cursor-pointer {
+  @media (hover: hover) {
+    &:hover {
+      cursor: pointer;
+    }
+  }
+}

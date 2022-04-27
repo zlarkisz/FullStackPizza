@@ -25,6 +25,6 @@ export default defineComponent({
 
 <style lang="scss">
 #app {
-  color: #2c3e50;
+  color: $default;
 }
 </style>

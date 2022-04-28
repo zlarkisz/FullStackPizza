@@ -5,7 +5,7 @@
     </BaseTitle>
 
     <div class="sheet__content">
-      <BaseRadioButton />
+      <!-- <BaseRadioButton /> -->
     </div>
   </div>
 </template>
@@ -13,14 +13,14 @@
 <script lang="ts">
 import { defineComponent } from 'vue';
 import BaseTitle from '@/components/base/BaseTitle.vue';
-import BaseRadioButton from '@/components/base/BaseRadioButton.vue';
+// import BaseRadioButton from '@/components/base/BaseRadioButton.vue';
 
 export default defineComponent({
   name: 'BuilderSizeSelector',
 
   components: {
     BaseTitle,
-    BaseRadioButton,
+    // BaseRadioButton,
   },
 
   setup() {

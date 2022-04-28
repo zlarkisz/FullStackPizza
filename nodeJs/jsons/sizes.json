@@ -1,0 +1,28 @@
+{
+  "sizes": [
+    {
+      "id": 1,
+      "name": "23 см",
+      "image": "/public/img/diameter.svg",
+      "multiplier": 1,
+      "value": "small",
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "32 см",
+      "image": "/public/img/diameter.svg",
+      "multiplier": 2,
+      "value": "normal",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "45 см",
+      "image": "/public/img/diameter.svg",
+      "multiplier": 3,
+      "value": "big",
+      "checked": false
+    }
+  ]
+}
